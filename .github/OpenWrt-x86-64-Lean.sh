@@ -1,5 +1,5 @@
 cd lede
-# 替换默认Argon主题（最新版本适配好像有问题,暂取消）
+# 替换默认Argon主题（最新版本适配好像有问题,暂取
 # rm -rf package/lean/luci-theme-argon && git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
 cat feeds.conf.default
 
